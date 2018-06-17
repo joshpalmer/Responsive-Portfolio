@@ -151,12 +151,14 @@ body {
   
   .main-section {
     float: left;
+    box-align: left;
     width: 100%;
     max-width: 650px;
     padding: 30px;
     margin: 0 0 40px;
     background: lightgrey;
     border: 1px solid #ddd;
+    
   }
   
   /* portfolio page */
